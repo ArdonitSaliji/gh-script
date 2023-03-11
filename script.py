@@ -29,5 +29,3 @@ if __name__ == '__main__':
     push_to_github(repo_path, file_path, start_date)
 
 
-
-
